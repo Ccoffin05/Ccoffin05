@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Ccoffin05
+- 👀 I’m interested in ... All things data science
+- 🌱 I’m currently learning ... Data science practices
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... 
+
